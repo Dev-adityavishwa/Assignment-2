@@ -148,7 +148,7 @@ ul>li>a:hover {
 
 
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 769px) {
 
     ul>li {
         display: inline-block;
@@ -197,7 +197,7 @@ ul>li>a:hover {
 
 
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 427px) {
     .menu {
         display: none;
     }
@@ -243,4 +243,5 @@ ul>li>a:hover {
     }
 
 }
+
 
