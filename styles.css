@@ -71,7 +71,7 @@ ul>li>a {
     margin: 30px 30px;
     padding: 10px 10px;
     gap: 10px;
-    overflow: none;
+    overflow: hidden;
 
 }
 
@@ -243,5 +243,6 @@ ul>li>a:hover {
     }
 
 }
+
 
 
